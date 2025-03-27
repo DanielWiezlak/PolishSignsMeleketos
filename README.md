@@ -1,6 +1,6 @@
-Szybkie pobieranie: <a href="https://github.com/DanielWiezlak/PolishSignsMeleketos/blob/main/psm.zip">Kliknij tutaj</a>
+Szybkie pobieranie: <a href="https://github.com/DanielWiezlak/PolishSignsMeleketos/blob/main/psm 1.0.zip">Kliknij tutaj</a>
 
-v0.3
+v1.0
 
 PL/EN
 
